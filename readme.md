@@ -2,4 +2,4 @@
 
 - Source files for [smoke.js.org](https://smoke.js.org)
 
-- Created with [hxgf/scratch](https://github.com/hxgf/scratch)
+- Created with [jyoungblood/scratch](https://github.com/jyoungblood/scratch)
